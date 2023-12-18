@@ -1,0 +1,14 @@
+{
+  "name": "prueba_practica",
+  "version": "1.0.0",
+   "type": "module",
+  "main": "index",
+  "scripts": {
+    "start": "node index",
+    "dev":"nodemon index"
+  },
+  "dependencies": {
+    "node": "^21.2.0",
+    "nodemon": "^3.0.2"
+  }
+}
